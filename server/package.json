@@ -24,7 +24,7 @@
     "googleapis": "^129.0.0",
     "jsonwebtoken": "^9.0.1",
     "memory-cache": "^0.2.0",
-    "mongoose": "^7.4.3",
+    "mongoose": "^7.6.10",
     "nodemailer": "^6.9.7",
     "nodemon": "^3.0.1",
     "sharp": "^0.33.2"
